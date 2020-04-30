@@ -1,0 +1,63 @@
+{
+    "explorer.confirmDelete": false,
+    "search.useIgnoreFiles": false,
+    "editor.fontLigatures": true,
+    "editor.detectIndentation": false,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "editor.fontSize": 14,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "files.exclude": {
+        "/.idea": true,
+        "/.vscode": true,
+        "/compiled.php": true
+    },
+    "files.associations": {
+        "*.wpy": "vue",
+        "*.vue": "vue",
+        "*.wxml": "html",
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript"
+    },
+    "emmet.includeLanguages": {
+        "wxml": "html"
+    },
+    "emmet.syntaxProfiles": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "search.exclude": {
+        "/.log": true,
+        "**/.min.css": true,
+        "*/.min.js": true
+    },
+    "vetur.validation.template": false,
+    "element-helper.indent-size": 4,
+    "vetur.format.options.tabSize": 4,
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "terminal.integrated.fontSize": 14,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.colorCustomizations": {},
+    "auto-rename-tag.activationOnLanguage": [
+        "html",
+        "xml",
+        "vue",
+        "javascript",
+        "php"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": true,
+    "vsonline.authentication.accountProvider": "Microsoft",
+}
